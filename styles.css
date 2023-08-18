@@ -1,0 +1,31 @@
+body {
+
+    text-align: center;
+    margin: 0;
+    padding: 100px;
+    background:linear-gradient(to left, #002fff,#00ff15);
+    
+}
+  
+  h1 {
+    color: #002fff;
+    
+    
+  }
+  
+  input[type="number"] {
+    padding: 8px;
+  }
+  button {
+    padding: 8px 16px;
+    background:linear-gradient(to left,#26bb32,#00ff95,#002fff);
+    color: rgb(0, 0, 0);
+    border:solid;
+    border-radius: 100px ;
+    cursor: pointer;
+  }
+  
+  #hint {
+    margin-top: 20px;
+    font-weight:bold;
+  }
